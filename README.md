@@ -4,6 +4,8 @@ console pastable javascript to manage a fleet of subscribers given a leader's se
 
 this is meant to coordinate many willing participants in a common drawing of a given leader's loaded bitmap image.
 
+https://www.reddit.com/r/place/comments/62y0pn/hivemind_slave_peering_javascript_injection/
+
 ## TODO
 
 - Finish adding Hex -> picker ID switch: https://github.com/bioshazard/place-peer-hivemind/blob/master/peerjsleader.js#L118
@@ -15,7 +17,7 @@ this is meant to coordinate many willing participants in a common drawing of a g
 
 ## Usage
 
-Go to reddit.com/r/place
+Go to reddit.com/r/place and the one of the following:
 
 ## Leader
 
