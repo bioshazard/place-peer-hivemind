@@ -4,6 +4,15 @@ console pastable javascript to manage a fleet of subscribers given a leader's se
 
 this is meant to coordinate many willing participants in a common drawing of a given leader's loaded bitmap image.
 
+## TODO
+
+- Finish adding Hex -> picker ID switch: https://github.com/bioshazard/place-peer-hivemind/blob/master/peerjsleader.js#L118
+- Maybe add an interface for x/y offset configuration
+- Maybe change who you subscribe to in interface for slave
+- More stats for leader for current campaign on the draggable pane
+- Find a good way to include peerjs.min.js. Maybe host it on my peer broker server?
+- Clean this up to not look like a sketchy nightmare.
+
 ## Usage
 
 Go to reddit.com/r/place
